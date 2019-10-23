@@ -25,7 +25,7 @@ public class WhileTest {
            후위 연산자의 경우 계산은 나중에 적용된다.
            나중이란 다음 줄을 진행하기 전에 진행된다는 의미이다.
          */
-        while(-- num  > 0) {
+        while(num --  > 0) {
             System.out.println("바안보옥");
         }
         /*
